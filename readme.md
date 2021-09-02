@@ -1,4 +1,4 @@
-:warning:	<strong>Em desenvolvimento...</strong><br> :warning:	
+:warning:	<strong>Em desenvolvimento...</strong> :warning: <br>
 Calculadora com JavaScript, HTML e CSS. 
 <div>
 <img src="imgProjeto.png" alt="Imagem do Projeto">
