@@ -30,7 +30,6 @@ body{
 
 #visorCalculadora{
   height: auto;
-  /* background-color: #888686; */
   font-size: 36px;
 }
 
@@ -74,7 +73,7 @@ body{
 }
 
 
-/* @keyframes slide{
+@keyframes slide{
   from {
     transform: translateY(-100%);
     opacity: 0;
@@ -82,4 +81,4 @@ body{
     transform: translateY(0%);
     opacity: 1;
   }
-} */
+}
