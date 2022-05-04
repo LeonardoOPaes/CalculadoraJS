@@ -1,4 +1,4 @@
 Calculadora com JavaScript, HTML e CSS. 
 <div>
-<img src="imgProjeto.png" alt="Imagem do Projeto">
+<a href="https://leonardopaeslp.github.io/oficina_moveis/">Acesse o site através da Github Pages</a>
 </div>
